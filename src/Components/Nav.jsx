@@ -53,7 +53,6 @@ const Navbar = () => {
                             <li><a onClick={closeNav} href="#join"
                                 className="fs-md ff-poppins fw-medium text-white mb-0 position-relative nav-line join">Join Us</a>
                             </li>
-
                         </ul>
                     </div>
                 </nav>
